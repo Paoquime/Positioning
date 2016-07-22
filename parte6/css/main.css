@@ -1,0 +1,28 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.hijo1, .hijo2, .hijo3, .hijo4 {
+	width: 200px;
+	height: 200px;
+}
+
+.hijo1 {
+	background-color: #ED2251;
+}
+
+.hijo2 {
+	background-color: #3A81BA;
+	right:  966px;
+	top: 200px;
+	position: absolute;
+}
+
+.hijo3 {
+	background-color: #8BAB42;
+}
+
+.hijo4 {
+	background-color: #FFFF00;
+}
